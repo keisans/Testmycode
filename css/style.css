@@ -1,0 +1,19 @@
+#content{
+  padding-top: 90px;
+}
+
+.span6 textarea{
+  width: 100%;
+  height: 200px;
+}
+
+.span12 iframe{
+  width: 100%;
+  height: 500px;
+}
+
+@media (max-width: 979px){
+  #content{
+    padding-top: 30px;
+  }
+}
